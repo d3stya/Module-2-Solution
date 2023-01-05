@@ -1,0 +1,44 @@
+ h1 {
+ padding: 2%;
+ text-align: center;
+ font-size: 175%;
+ font-family: comic sans ms;
+ }
+ .container {
+ border: 1px solid #000000;
+ background-color: #FBA2A2;
+ }
+ h3.container {
+ position: absolute;
+ top: 0px;
+ right: 0px;
+ }
+ h3 {
+ float: right;
+ padding: 5px 0px;
+ width: 25%;
+ text-align: center;
+ font-size: 125%;
+ border-bottom: 1px solid #000000;
+ border-left: 1px solid #000000;
+ font-family: arial;
+ margin: 0;
+ }
+ h3.sushi {
+ background-color: #85B6B1;
+ }
+ h3.chicken {
+ background-color: #ED7A3C;
+ }
+ h3.beef {
+ background-color: #B5D43B;
+ }
+ p {
+ clear: right;
+ text-align: justify;
+ padding: 5%;
+ font-size: 100%;
+ font-family: Times New Roman;
+ line-height: 1;
+ letter-spacing: 1px;
+ }
